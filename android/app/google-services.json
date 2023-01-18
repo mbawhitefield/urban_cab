@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076587096546",
+    "project_id": "urban-cab-9223d",
+    "storage_bucket": "urban-cab-9223d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076587096546:android:bfc6d72249023b1765f1bb",
+        "android_client_info": {
+          "package_name": "com.example.urban_cab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076587096546-aajpmteut492jojpui2damp0f0avenfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv6K5JnKrJ6j3z4NDATzZBGhyd6bQTSpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076587096546-aajpmteut492jojpui2damp0f0avenfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
